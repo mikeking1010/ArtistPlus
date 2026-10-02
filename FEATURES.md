@@ -1,0 +1,9 @@
+- **GIF covers**: Give your albums some flavour, in album details a space is available to set a GIF as the album cover. Note this will not save to the metadata of the album and if exported, will not carry over.
+  - Album glow: Add a static or moving album glow to your albums. 
+- Edit file metadata and export your albums in-app.
+  - Move tracks around to create different track listings and experiment with multiple discs.
+- Equaliser: 7-node equaliser found in settings.
+- **Speed and pitch controls**: Swipe up while in the player to bring up controls for speed and pitch. Auto-saves to the current song so if you go back and listen it'll already be applied.
+- Player types: Your player can be a spinning vinyl, spinning CD, the album cover, a vinyl player, or the GIF cover (if one has been chosen).
+  - Vinyl scratching: Pressing and swiping along the vinyl or vinyl player will skip forward or backward depending on how you swipe.
+- **Track versioning**: Want to replace the audio of a track but not delete the old version or have to edit metadata? Press the three dots next to the track and add a new version from files or the song bank.
